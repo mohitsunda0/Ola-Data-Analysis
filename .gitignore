@@ -1,0 +1,14 @@
+# Ignore Gradle and system cache
+.gradle/
+build/
+
+# Excel/Power BI temp
+~$*.xlsx
+*.pbix~
+
+# System junk
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
+ 
